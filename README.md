@@ -1,0 +1,2 @@
+Este repositório foi criado a partir dos programas desenvolvidos pelo grupo de pesquisa em Astrofísica Relativística Computacional - da Pós-Graduação em Física da Universidade do Estado de Santa Catarina - como parte do mestrado da aluna Caroline Meurer de Liz.
+Os programas aqui linkados calculam diversas propriedades de estrelas de nêutrons (a partir de uma EOS politrópica) e de estrelas de quarks (a partir da EOS de quarks).
